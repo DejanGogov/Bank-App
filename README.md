@@ -1,6 +1,6 @@
 # Bank-App
 
-This is example for Bank app, you can transfer money through avaiable accounts, request a loan, or just to close your account
+This is example of Bank app, you can transfer money through available accounts, request a loan, or just to close your account
 
 if you want to transfer money or to remove (close) your account use the username example dg
 
